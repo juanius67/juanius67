@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫💍 About Me:
 🔭 I'm currently working on Environmental Systems research at EPFL<br>👥 I'm looking to collaborate on Sustainability-meets-finance projects, open-source tools for environmental data, or anything at the intersection of Python and real-world resource flows<br>🤝 I'm looking for help with Quantitative finance applications in commodity markets and ML for time-series forecasting<br>🌱 I'm currently learning Python, C++, MATLAB, machine learning, and Linux/shell scripting for server environments<br>💬 Ask me about: Sustainability strategy, or navigating EPFL's SIE program — also happy to chat in EN / FR / ES / PT 🌍<br>⚡ Fun fact: Triple citizen (🇨🇭🇧🇷🇦🇷) studying in Lausanne, interning in Singapore, and eyeing Geneva's trading floor — all with an environmental conscience
 
 
